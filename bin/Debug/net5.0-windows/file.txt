@@ -1,0 +1,5 @@
+  *NumeroEtudiant:1  *Note:100  *Numerodecours:20
+  *NumeroEtudiant:1  *Note:80  *Numerodecours:20
+  *NumeroEtudiant:1  *Note:70  *Numerodecours:30
+  *NumeroEtudiant:1  *Note:85  *Numerodecours:30
+  *NumeroEtudiant:1  *Note:90  *Numerodecours:20
